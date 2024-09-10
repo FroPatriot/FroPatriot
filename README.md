@@ -5,6 +5,3 @@
 </p>
 I dont understand markdown and idc
 </p>
-<hr />
-</p>
-<hr />
